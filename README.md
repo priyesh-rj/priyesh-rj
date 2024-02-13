@@ -54,12 +54,7 @@ I am a MERN Stack Developer, Full-Stack Enthusiast, Open Source Contributor <img
 
 <br/>
 
-<h2>📈 My Stats</h2>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niketvns&show_icons=true&locale=en&layout=compact&theme=prussian" alt="Stats" height="180" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niketvns&show_icons=true&locale=en&theme=prussian" alt="Github Stats" height="180" /></p>
-
-<br/>
+ 
 
  
 
